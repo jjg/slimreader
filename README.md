@@ -3,7 +3,7 @@ slimreader
 
 An experimental e-reader
 
-#Parts:
+##Parts
 * body
 * knob
 * 2x16 Character LCD (Adafruit - http://www.adafruit.com/products/398)
