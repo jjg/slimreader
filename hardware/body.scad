@@ -10,7 +10,7 @@ rotate([0,180,0]){
 
 			// encoder hole
 			translate([0,0,89]){
-				cylinder(2,3.5,3.5, $fn=100);
+				cylinder(2,4,4, $fn=100);
 			}
 
 			// lcd window
